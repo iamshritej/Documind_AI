@@ -112,7 +112,9 @@ python run\_cli.py
 
 ### 5\) Run all at once on windows powershell(Terminal window)
 
+```bash
 .\\.venv\\Scripts\\python.exe -m streamlit run app.py
+```
 
 ## How to use
 
